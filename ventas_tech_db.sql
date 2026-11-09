@@ -1,7 +1,5 @@
 CREATE DATABASE Ventas_Tech_DB
 
-USE Ventas_Tech_DB
-
 -- === SECCIÓN 1: DROP TABLES ===
 DROP TABLE IF EXISTS ventas;
 DROP TABLE IF EXISTS productos;
